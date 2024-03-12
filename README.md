@@ -1,2 +1,6 @@
 # C-Programming Solved Questions.
-C-Programming Solved Questions.
+!While Loops.
+!For Loops.
+!Arrays.
+!Pointer.
+!Functions.
