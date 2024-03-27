@@ -2,5 +2,5 @@
 !While Loops.
 !For Loops.
 !Arrays.
-!Pointer.
-!Functions.
+!2D Arrays.
+!Char Arrays.
