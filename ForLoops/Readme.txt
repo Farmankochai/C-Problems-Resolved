@@ -5,4 +5,7 @@
 #ReverseEvenOdd
 #Mod
 #ModSum
-#Patterns etc......
+#Patterns
+#Triangle Patterns
+#Star Patters
+
