@@ -1,2 +1,8 @@
 #For Loop Solved Question's in C ....
-    Even,Odds,Sum,ReverseEvenOdd,Mod,ModSum,Patterns etc......
+#Even
+#Odds
+#Sum
+#ReverseEvenOdd
+#Mod
+#ModSum
+#Patterns etc......
